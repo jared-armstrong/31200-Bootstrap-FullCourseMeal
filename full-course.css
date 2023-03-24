@@ -1,0 +1,27 @@
+.header {
+    background-color: grey;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar-text {
+    margin: auto;
+    text-align: center;
+    color: aqua;
+    font-size: 36px;
+    padding: 15px;
+}
+
+.main-container {
+    padding: 120px;
+}
+
+.card {
+    padding: 35px;
+    margin: 55px;
+    border-radius: 20px;
+    border-color: aqua;
+    border-width: 4px;
+}
